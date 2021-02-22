@@ -10,3 +10,4 @@
 
 ## 완료 단계
  - level 1 - 입출력과 사칙연산 : complete
+ - level 2 - if 문 : complete
