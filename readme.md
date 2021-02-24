@@ -9,6 +9,7 @@
 * 목적 : 기존에 공부한 알고리즘을 복습하고, 또한 c++, c 언어 학습을 위함이다. 
 
 ## 완료 단계
- - level 1 - 입출력과 사칙연산 : complete
- - level 2 - if 문 : complete
- - level 3 - for 문 : complete
+ - level 1 - 입출력과 사칙연산 : complete (2021-02-21)
+ - level 2 - if 문 : complete (2021-02-22)
+ - level 3 - for 문 : complete (2021-02-23)
+ - level 4 - while 문 : complete (2021-02-24)
