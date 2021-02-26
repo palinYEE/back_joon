@@ -14,3 +14,4 @@
  - level 3 - for 문 : complete (2021-02-23)
  - level 4 - while 문 : complete (2021-02-24)
  - levle 5 - 1차원 배열 : complete (2021-02-25)
+ - level 6 - 함수 : 진행중 (2021-02-26 ~ )
