@@ -15,3 +15,4 @@
  - level 4 - while 문 : complete (2021-02-24)
  - levle 5 - 1차원 배열 : complete (2021-02-25)
  - level 6 - 함수 : complete (2021-02-26 ~ 2021-03-17)
+ - level 7 - 문자열 : 진행중 (2021-03-18 ~ )
